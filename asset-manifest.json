@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactjs-course-2020/static/css/main.9e71ff5d.chunk.css",
+    "main.js": "/reactjs-course-2020/static/js/main.c81adf44.chunk.js",
+    "main.js.map": "/reactjs-course-2020/static/js/main.c81adf44.chunk.js.map",
+    "runtime-main.js": "/reactjs-course-2020/static/js/runtime-main.d390e1f3.js",
+    "runtime-main.js.map": "/reactjs-course-2020/static/js/runtime-main.d390e1f3.js.map",
+    "static/js/2.8ef66167.chunk.js": "/reactjs-course-2020/static/js/2.8ef66167.chunk.js",
+    "static/js/2.8ef66167.chunk.js.map": "/reactjs-course-2020/static/js/2.8ef66167.chunk.js.map",
+    "static/js/3.8d17c2fb.chunk.js": "/reactjs-course-2020/static/js/3.8d17c2fb.chunk.js",
+    "static/js/3.8d17c2fb.chunk.js.map": "/reactjs-course-2020/static/js/3.8d17c2fb.chunk.js.map",
+    "index.html": "/reactjs-course-2020/index.html",
+    "precache-manifest.21e00997e99af180da225708d20b0372.js": "/reactjs-course-2020/precache-manifest.21e00997e99af180da225708d20b0372.js",
+    "service-worker.js": "/reactjs-course-2020/service-worker.js",
+    "static/css/main.9e71ff5d.chunk.css.map": "/reactjs-course-2020/static/css/main.9e71ff5d.chunk.css.map",
+    "static/js/2.8ef66167.chunk.js.LICENSE.txt": "/reactjs-course-2020/static/js/2.8ef66167.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d390e1f3.js",
+    "static/js/2.8ef66167.chunk.js",
+    "static/css/main.9e71ff5d.chunk.css",
+    "static/js/main.c81adf44.chunk.js"
+  ]
+}
